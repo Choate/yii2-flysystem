@@ -1,5 +1,5 @@
 {
-    "name": "choate/yii2-oss-flysystem",
+    "name": "choate/yii2-flysystem",
     "description": "Yii2 Flysystem adapter for the Aliyun OSS",
     "type": "library",
     "require": {
