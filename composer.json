@@ -1,0 +1,17 @@
+{
+    "name": "choate/yii2-oss-flysystem",
+    "description": "Yii2 Flysystem adapter for the Aliyun OSS",
+    "type": "library",
+    "require": {
+        "apollopy/flysystem-aliyun-oss": "^1.2.0",
+        "creocoder/yii2-flysystem": "^0.9.0"
+    },
+    "license": "BSD 3",
+    "authors": [
+        {
+            "name": "choate",
+            "email": "choate.yao@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
