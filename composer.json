@@ -3,6 +3,7 @@
     "description": "Yii2 Flysystem adapter for the Aliyun OSS",
     "type": "library",
     "require": {
+        "php": ">=5.5.9",
         "apollopy/flysystem-aliyun-oss": "^1.2.0",
         "creocoder/yii2-flysystem": "^0.9.0"
     },
@@ -13,5 +14,10 @@
             "email": "choate.yao@gmail.com"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "choate\\yii2\\flysystem\\": "src",
+        }
+    }
 }

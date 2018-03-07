@@ -6,7 +6,7 @@
  * Time: 17:18
  */
 
-namespace choate\flysystem;
+namespace choate\yii2\flysystem;
 
 use ApolloPY\Flysystem\AliyunOss\AliyunOssAdapter;
 use League\Flysystem\Filesystem;
