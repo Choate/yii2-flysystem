@@ -1,6 +1,6 @@
 {
     "name": "choate/yii2-flysystem",
-    "description": "Yii2 Flysystem adapter for the Aliyun OSS",
+    "description": "Yii2 Flysystem adapter",
     "type": "library",
     "require": {
         "php": ">=5.5.9",
