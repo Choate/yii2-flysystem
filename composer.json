@@ -7,7 +7,7 @@
         "apollopy/flysystem-aliyun-oss": "^1.2.0",
         "creocoder/yii2-flysystem": "^0.9.0"
     },
-    "license": "BSD 3",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "choate",
