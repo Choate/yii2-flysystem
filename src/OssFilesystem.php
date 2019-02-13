@@ -9,7 +9,7 @@
 namespace choate\yii2\flysystem;
 
 use ApolloPY\Flysystem\AliyunOss\AliyunOssAdapter;
-use League\Flysystem\Filesystem;
+use creocoder\flysystem\Filesystem;
 use OSS\OssClient;
 
 class OssFilesystem extends Filesystem
